@@ -1,1 +1,1 @@
-From ubuntu:eoan
+From ubuntu:jammy
