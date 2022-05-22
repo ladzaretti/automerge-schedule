@@ -5,7 +5,7 @@
       "automerge": true,
       "automergeSchedule": ["at any time"],
       "ignoreTests": true,
-      "schedule": ["at any time"]
+      "schedule": ["before 2am"]
     }
   ]
 }
