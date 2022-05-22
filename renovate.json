@@ -1,7 +1,7 @@
 {
   "packageRules": [
     {
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "matchPackageNames": ["ubuntu"],
       "automerge": true,
       "automergeSchedule": ["at any time"],
       "schedule": ["at any time"]
