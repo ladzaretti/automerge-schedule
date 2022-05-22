@@ -3,9 +3,9 @@
     {
       "matchPackageNames": ["ubuntu"],
       "automerge": true,
-      "automergeSchedule": ["at any time"],
+      "automergeSchedule": ["before 2pm"],
       "ignoreTests": true,
-      "schedule": ["before 2am"]
+      "schedule": ["at any time"]
     }
   ]
 }
