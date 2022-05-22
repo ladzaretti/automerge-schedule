@@ -1,9 +1,9 @@
 {
+  "automergeSchedule": ["at any time"],
+  "automerge": true,
   "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
-      "automergeSchedule": ["at any time"],
-      "automerge": true
     }
   ]
 }
