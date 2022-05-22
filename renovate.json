@@ -3,7 +3,8 @@
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
       "automerge": true,
-      "automergeSchedule": ["at any time"]
+      "automergeSchedule": ["at any time"],
+      "schedule": ["at any time"]
     }
   ]
 }
