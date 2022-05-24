@@ -3,7 +3,7 @@
     {
       "matchPackageNames": ["ubuntu"],
       "automerge": true,
-      "automergeSchedule": "before 2pm",
+      "automergeSchedule": "after 2pm",
       "ignoreTests": true,
       "schedule": "at any time"
     }
