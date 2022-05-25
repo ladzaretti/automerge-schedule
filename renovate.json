@@ -5,6 +5,7 @@
       "automerge": true,
       "automergeSchedule": "after 2pm",
       "ignoreTests": true,
+      "automergeType": "branch",
       "schedule": "at any time"
     }
   ]
